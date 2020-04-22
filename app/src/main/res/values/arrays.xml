@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="types">
+        <item>bug</item>
+        <item>fighting</item>
+        <item>fairy</item>
+        <item>flying</item>
+        <item>ghost</item>
+        <item>fire</item>
+        <item>ground</item>
+        <item>dark</item>
+        <item>grass</item>
+        <item>dragon</item>
+        <item>electric</item>
+        <item>ice</item>
+        <item>psychic</item>
+        <item>normal</item>
+        <item>water</item>
+        <item>steel</item>
+        <item>unknown</item>
+        <item>rock</item>
+        <item>poison</item>
+    </string-array>
+</resources>
